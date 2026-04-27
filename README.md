@@ -95,9 +95,9 @@ Below is a preview of the Power BI dashboard showcasing Airbnb performance analy
 🔗 **View Dashboard Preview:**  
 [Open Dashboard Preview (Images)]
 
-![Overview](overview.PNG)  
-![Ratings](ratings.PNG)  
-![Reviews](reviews.PNG)  
+🔗 [View Overview Dashboard](./overview.PNG)  
+🔗 [View Ratings Dashboard](./ratings.PNG)  
+🔗 [View Reviews Dashboard](./reviews.PNG)  
 
 *(For full interactivity, please open the `.pbix` file in Power BI Desktop.)*
 
